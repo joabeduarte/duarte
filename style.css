@@ -199,6 +199,12 @@ body {
     left: 10px;
   }
 }
+@media (max-width: 530px) {
+  .skill-list li {
+    position: absolute;
+    left: 120px;
+  }
+}
 
 /* about-info */
 
